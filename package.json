@@ -1,0 +1,32 @@
+{
+  "name": "hsm-sensors-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "content:build": "node scripts/build-redirects.mjs",
+    "prebuild": "node scripts/build-redirects.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "three": "0.171.0",
+    "@react-three/fiber": "9.1.2",
+    "@react-three/drei": "10.0.6",
+    "zod": "3.24.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.4",
+    "tailwindcss": "4.3.4",
+    "@types/node": "22.10.5",
+    "@types/react": "19.0.7",
+    "@types/react-dom": "19.0.3",
+    "@types/three": "0.171.0",
+    "typescript": "5.7.3"
+  }
+}

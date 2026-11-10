@@ -1,0 +1,17 @@
+# Raw scraped material from the legacy site — not part of the build.
+/_source
+
+# Local build output and dependencies
+/.next
+/node_modules
+
+# Local env files (values are set in the Vercel dashboard)
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+
+# TypeScript incremental build info
+*.tsbuildinfo

@@ -1,0 +1,29 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# next.js
+/.next/
+/out/
+next-env.d.ts.timestamp
+
+# production
+/build
+
+# local env files (values are set in the Vercel dashboard)
+.env
+.env.local
+.env.*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# local tooling caches
+.impeccable/

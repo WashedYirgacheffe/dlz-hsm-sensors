@@ -1,0 +1,332 @@
+[
+  {
+    "source": "/productinfo/1490462.html",
+    "destination": "/products/flow/hsm10-thermal-flow-switch",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1490867.html",
+    "destination": "/products/flow/hsm20-thermal-flow-switch-dual",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1490872.html",
+    "destination": "/products/flow/hsm30-thermal-flow-switch-digital",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2139315.html",
+    "destination": "/products/flow/s400-flow-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536043.html",
+    "destination": "/products/level/hws10-float-level-switch",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536044.html",
+    "destination": "/products/level/hws20-float-level-switch",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536048.html",
+    "destination": "/products/level/hls01-cable-float-switch",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536050.html",
+    "destination": "/products/level/hts11-magnetic-level-gauge-top",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536051.html",
+    "destination": "/products/level/hts22-magnetic-level-gauge-side",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536055.html",
+    "destination": "/products/level/hwt10-magnetic-level-transmitter",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536056.html",
+    "destination": "/products/level/hwt20-magnetic-level-transmitter-display",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536057.html",
+    "destination": "/products/level/hwt2088-magnetic-level-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536059.html",
+    "destination": "/products/level/hwt100-magnetic-level-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536061.html",
+    "destination": "/products/level/hms10-magnetostrictive-level-transmitter",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536063.html",
+    "destination": "/products/level/hps10-submersible-level-transmitter",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536064.html",
+    "destination": "/products/level/hps20-submersible-level-transmitter-display",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536066.html",
+    "destination": "/products/level/hps2088-submersible-level-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536069.html",
+    "destination": "/products/level/hps100-pressure-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536075.html",
+    "destination": "/products/level/hct100-capacitive-level-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536076.html",
+    "destination": "/products/level/hct40-capacitive-level-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1607895.html",
+    "destination": "/products/level/hsm-vb106-microwave-level-switch",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535581.html",
+    "destination": "/products/pressure/pdd3051-differential-pressure-transmitter",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535584.html",
+    "destination": "/products/pressure/pdd2088-differential-pressure-transmitter",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535590.html",
+    "destination": "/products/pressure/pdd1020-differential-pressure-transmitter",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535593.html",
+    "destination": "/products/pressure/pcd2088-pressure-transmitter-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535598.html",
+    "destination": "/products/pressure/pcc216-pressure-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535602.html",
+    "destination": "/products/pressure/pcc100-pressure-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535956.html",
+    "destination": "/products/temperature/tps10-rtd-temperature-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535964.html",
+    "destination": "/products/temperature/tpt10-integrated-temperature-transmitter",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535987.html",
+    "destination": "/products/temperature/tpt20-temperature-transmitter-display",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535991.html",
+    "destination": "/products/temperature/tpt201-temperature-transmitter",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535992.html",
+    "destination": "/products/temperature/tpt2088-temperature-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535995.html",
+    "destination": "/products/temperature/tpt100-temperature-transmitter-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1535998.html",
+    "destination": "/products/temperature/tpt00-temperature-transmitter-module",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1574843.html",
+    "destination": "/products/temperature/fibre-optic-temperature-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1574867.html",
+    "destination": "/products/temperature/fibre-optic-temperature-probe",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1574909.html",
+    "destination": "/products/temperature/fibre-optic-temperature-system",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2088512.html",
+    "destination": "/products/ultrasonic/ub120-ultrasonic-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2088589.html",
+    "destination": "/products/ultrasonic/ub200-ultrasonic-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2088611.html",
+    "destination": "/products/ultrasonic/ub300-ultrasonic-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2088627.html",
+    "destination": "/products/ultrasonic/ub500-ultrasonic-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2088635.html",
+    "destination": "/products/ultrasonic/ub1000-ultrasonic-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2088650.html",
+    "destination": "/products/ultrasonic/ub2000-ultrasonic-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2088667.html",
+    "destination": "/products/ultrasonic/ub4000-ultrasonic-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1596057.html",
+    "destination": "/products/gas/hsm300-wearable-methane-detector",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1596064.html",
+    "destination": "/products/gas/hsm1000-long-range-methane-detector",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1596069.html",
+    "destination": "/products/gas/laser-methane-explosion-proof-ptz",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536077.html",
+    "destination": "/products/displacement/mps10-rod-displacement-transducer",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536080.html",
+    "destination": "/products/displacement/mds10-draw-wire-transducer",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536084.html",
+    "destination": "/products/displacement/mms10-magnetostrictive-displacement-transducer",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2115521.html",
+    "destination": "/products/displacement/er-displacement-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2115757.html",
+    "destination": "/products/displacement/esc-displacement-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1534456.html",
+    "destination": "/products/analytical/dog200-dissolved-oxygen-meter",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1534549.html",
+    "destination": "/products/analytical/dog-208fa-dissolved-oxygen-electrode",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2023069.html",
+    "destination": "/products/analytical/phg-2091pro-ph-orp-controller",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2094472.html",
+    "destination": "/products/iot/wireless-pressure-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2094484.html",
+    "destination": "/products/iot/wireless-temperature-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2094499.html",
+    "destination": "/products/iot/wireless-level-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2094502.html",
+    "destination": "/products/iot/wireless-gas-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1665415.html",
+    "destination": "/products/iot/edge-gateway",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/1536006.html",
+    "destination": "/products/motion/sbg10-air-damper-control-system",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2664084.html",
+    "destination": "/products/motion/hsm41-laser-displacement-sensor",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2664148.html",
+    "destination": "/products/motion/incremental-encoder",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2159692.html",
+    "destination": "/products/motion/hs101-load-cell",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/2159714.html",
+    "destination": "/products/motion/hs-201-load-cell",
+    "permanent": true
+  },
+  {
+    "source": "/productinfo/6261978.html",
+    "destination": "/products/motion/bdl50-multifunction-power-meter",
+    "permanent": true
+  }
+]
